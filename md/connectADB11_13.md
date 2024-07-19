@@ -1,5 +1,5 @@
 ### How to pair and connect adb(Android 11 ~ Android 13)
-
+Make sure To subscribe to Anas2013a on YouTube 
 #### Warning!!! If you use local adb, please don't use pairing mode. For local adb, please refer to [Connect adb (Android 4.x ~ Android 13)](./connectADB4x_13.md)
 
 #### 1. Different models of phones may be slightly different!
